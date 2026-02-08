@@ -1,13 +1,13 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=CodeWithHq&fontSize=44&fontColor=36BCF7&desc=WebDevIn60s%20&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=CodeWithHq&fontSize=44&fontColor=36BCF7&desc=@WebDevIn60s%20&descSize=18" />
 </p>
 
 
 
 
 🚀 **Web Developer | UI Builder | Short-Form Tech Creator**  
-🎥 YouTube: **WebDevIn60s**
+🎥 YouTube: **[WebDevIn60s](http://www.youtube.com/@CodeWithHq)**
 
 I design and build modern, responsive websites using **HTML, CSS, JavaScript & React**.  
 I share **short videos, real projects, and clean code** to help developers learn faster.
